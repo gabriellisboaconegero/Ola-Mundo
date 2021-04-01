@@ -1,5 +1,4 @@
 # Olá Mundo
- primeiro repositório no git e github
+ Primeiro repositório no git e github
 
-
-Repositorio criado para saber usar o github desktop
+Repositório criado para saber usar o github desktop
